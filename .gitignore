@@ -1,0 +1,6 @@
+*.csv
+*.py
+_*.json
+conversaciones/
+__pycache__/
+*.pyc
